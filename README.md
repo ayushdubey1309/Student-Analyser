@@ -12,5 +12,6 @@ git clone https://github.com/ayushdubey1309/student-analyser.git
 go to project folder
 run the program
 students.py
+enjoy
 # AUTHOR 
 ayush dubey
